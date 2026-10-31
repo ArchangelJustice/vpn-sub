@@ -1,4 +1,0 @@
-#profile-title: KustVPN
-#profile-desc: Личная подписка KustVPN
-#subscription-userinfo: upload=0; download=0; total=1099511627776; expire=1793476917
-vless://4a393f70-f608-4421-987e-7a03587d8636@nl-fallback.junglenode.win:443?type=tcp&security=reality&sni=nl-fallback.junglenode.win&fp=firefox&pbk=Oj6c-naoKvGes5zfAJIDHR7IoIp_wjB1Xhj_KMAckxE&sid=725806f82d624fb6&spx=/&flow=xtls-rprx-vision&path=/#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1%20%D0%90%D0%B2%D1%82%D0%BE%20%7C%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
